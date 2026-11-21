@@ -1,1 +1,0 @@
-# taruh URL halaman artikel di sini, satu per baris (baris ini bakal di-skip karena bukan URL valid)
