@@ -4,3 +4,17 @@ __pycache__/
 node_modules/
 .env
 __pycache__/
+__pycache__/
+ckpt.pt
+ckpt.pt.tmp
+crawl.txt
+train.txt
+log.txt
+nohup.out
+__pycache__/
+ckpt.pt
+ckpt.pt.tmp
+crawl.txt
+train.txt
+log.txt
+nohup.out
