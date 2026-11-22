@@ -18,3 +18,17 @@ crawl.txt
 train.txt
 log.txt
 nohup.out
+
+import.txt
+
+ckpt2.pt
+ckpt2.pt.tmp
+ckpt_chat.pt
+ckpt_chat.pt.tmp
+train2.txt
+chat_train.txt
+prep.txt
+
+*.part
+import_cc100.txt
+data/

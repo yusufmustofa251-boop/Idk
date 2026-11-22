@@ -4,7 +4,7 @@ round=1
 while true; do
   echo ""
   echo "######## RONDE $round ########"
-  python -u crawler.py --wiki 150
+  python -u crawler.py --wiki 0 --pages 60
   python -u train.py --steps 500
   round=$((round+1))
 done
